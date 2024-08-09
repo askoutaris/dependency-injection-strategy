@@ -329,3 +329,5 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 /Api/appsettings.local.json
+/DependencyInjectionStrategy/obj/Debug/net8.0/DependencyInjectionStrategy.AssemblyInfo.cs
+/DependencyInjectionStrategy/obj/Debug/net8.0/DependencyInjectionStrategy.AssemblyInfoInputs.cache
